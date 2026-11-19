@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+tldextract
+python-whois
+python-dotenv
+dnspython
